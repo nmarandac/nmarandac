@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## 👋 Hi there, My name is Nataly Aranda!
  
 ### About Me
 I am a physicist with a master’s degree and a Ph.D. in geophysics.
@@ -14,9 +14,7 @@ Now I feel prepared to start working as a data analyst.
 ### Resume 
 [Nataly Aranda-Resume.pdf](https://github.com/nmarandac/nmarandac/files/8475777/Nataly.Aranda-Resume.pdf)
 
-<!---
-nmarandac/nmarandac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->[Uploading Nataly Aranda-Resume.pdf…]()
+### Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataly_Aranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010](https://www.linkedin.com/in/natalyaranda/)
 
  📫 How to reach me: aranda.nata@gmail.com
