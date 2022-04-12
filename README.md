@@ -15,12 +15,16 @@ Now I feel prepared to start working as a data analyst.
 [Nataly Aranda-Resume.pdf](https://github.com/nmarandac/nmarandac/files/8475777/Nataly.Aranda-Resume.pdf)
 
 ### Skills
+![Python](https://img.shields.io/badge/Python-0077B5?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+![R](https://img.shields.io/badge/r-0077B5?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)</br>
+![JavaScript](https://img.shields.io/badge/javascript-0077B5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+![Tableau](https://img.shields.io/badge/Tableau-0077B5?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)</br>
+![SPSS](https://img.shields.io/badge/SPSS_Modeler-0077B5?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)</br>
+![CognosAnalytics](https://img.shields.io/badge/Cognos_Analytics-0077B5?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)</br>
+![SQL](https://img.shields.io/badge/sql-0077B5?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)</br>
 
 
-
-
-
-📫 How to reach me:
+### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataly_Aranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/natalyaranda/)
 
