@@ -1,6 +1,6 @@
-👋 Hi there!
+## 👋 Hi there!
  
-## About Me
+### About Me
 I am a physicist with a master’s degree and a Ph.D. in geophysics.
 During the last year of my doctoral degree, I started working as a professor at a university, teaching physics 
 and doing research in geoscience for three years. As a professor and researcher, 
