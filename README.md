@@ -11,10 +11,12 @@ In this course, I learned how to apply my research skills to another area as the
 during this period, I learned and perfected my data analyst skills.
 Now I feel prepared to start working as a data analyst.
 
-### Resume
+### Resume 
+[Nataly Aranda-Resume.pdf](https://github.com/nmarandac/nmarandac/files/8475777/Nataly.Aranda-Resume.pdf)
 
 <!---
 nmarandac/nmarandac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->[Uploading Nataly Aranda-Resume.pdf…]()
+
  📫 How to reach me: aranda.nata@gmail.com
