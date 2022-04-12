@@ -23,7 +23,7 @@ Now I feel prepared to start working as a data analyst.
 ![Tableau](https://img.shields.io/badge/Tableau-0077B5?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010) 
 ![SPSS](https://img.shields.io/badge/SPSS_Modeler-0077B5?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010) 
 ![CognosAnalytics](https://img.shields.io/badge/Cognos_Analytics-0077B5?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)
-![SQL](https://img.shields.io/badge/sql-0077B5?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)
+![SQL](https://img.shields.io/badge/sql-0077B5?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)
 
 
 ### 📫 How to reach me:
