@@ -14,5 +14,15 @@ Now I feel prepared to start working as a data analyst.
 ### Resume 
 [Nataly Aranda-Resume.pdf](https://github.com/nmarandac/nmarandac/files/8475777/Nataly.Aranda-Resume.pdf)
 
+### Skills
 
- 📫 How to reach me: aranda.nata@gmail.com
+
+
+
+
+📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataly_Aranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/natalyaranda/)
+
+
+ 
