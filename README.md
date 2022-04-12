@@ -14,6 +14,9 @@ Now I feel prepared to start working as a data analyst.
 ### Resume 
 [Nataly Aranda-Resume.pdf](https://github.com/nmarandac/nmarandac/files/8475777/Nataly.Aranda-Resume.pdf)
 
+[NatalyAranda_Cover Letter.pdf](https://github.com/nmarandac/nmarandac/files/8476406/NatalyAranda_Cover.Letter.pdf)
+
+
 ### Skills
 ![Excel](https://img.shields.io/badge/Excel-0077B5?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)
 ![Acces](https://img.shields.io/badge/Access-0077B5?style=for-the-badge&logo=microsoftaccess&logoColor=white&labelColor=101010)
