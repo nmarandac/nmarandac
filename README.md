@@ -11,9 +11,9 @@ I learned and perfected my data skills. Now I am prepared to start working as a 
 
 
 ### Resume & Cover Letter
-[![Resume](https://img.shields.io/badge/View_my_Resume-green?style=for-the-badge&logo=pdf&logoColor=white&labelColor=101010)](https://github.com/nmarandac/nmarandac/files/8475777/Nataly.Aranda-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Download_my_Resume-green?style=for-the-badge&logo=pdf&logoColor=white&labelColor=101010)](https://github.com/nmarandac/nmarandac/files/8475777/Nataly.Aranda-Resume.pdf)
 
-[![coverLetter](https://img.shields.io/badge/View_my_Cover_Letter-green?style=for-the-badge&logo=pdf&logoColor=white&labelColor=101010)](https://github.com/nmarandac/nmarandac/files/8476406/NatalyAranda_Cover.Letter.pdf)
+[![coverLetter](https://img.shields.io/badge/Download_my_Cover_Letter-green?style=for-the-badge&logo=pdf&logoColor=white&labelColor=101010)](https://github.com/nmarandac/nmarandac/files/8476406/NatalyAranda_Cover.Letter.pdf)
 
 
 ### Skills
