@@ -33,3 +33,5 @@ I learned and perfected my data skills. Now I am prepared to start working as a 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataly_Aranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/natalyaranda/)
 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Nataly_Aranda-0077B5?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Nataly-Aranda-C) 
+
+[![GoogleScholar](https://img.shields.io/badge/Google_Scholar-Nataly_Aranda-0077B5?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=101010)](https://scholar.google.com/citations?hl=en&user=tSrj7nEAAAAJ)
