@@ -23,7 +23,7 @@ I learned and perfected my data skills. Now I am prepared to start working as a 
 ![R](https://img.shields.io/badge/r-0077B5?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)
 ![JavaScript](https://img.shields.io/badge/Java_Script-0077B5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Tableau](https://img.shields.io/badge/Tableau-0077B5?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010) 
-![PowerBi](https://img.shields.io/badge/PowerBi-0077B5?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010) 
+![PowerBi](https://img.shields.io/badge/Power_Bi-0077B5?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=101010) 
 ![SPSS](https://img.shields.io/badge/SPSS_Modeler-0077B5?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010) 
 ![CognosAnalytics](https://img.shields.io/badge/Cognos_Analytics-0077B5?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)
 ![SQL](https://img.shields.io/badge/sql-0077B5?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=101010)
