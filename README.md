@@ -11,8 +11,7 @@ I learned and perfected my data skills. Now I am prepared to start working as a 
 
 
 ### Resume & Cover Letter
-[![Resume](https://img.shields.io/badge/Download_my_Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010)]
-(https://github.com/nmarandac/nmarandac/files/8531947/Nataly.Aranda-Resume.pdf)
+[![Resume](https://img.shields.io/badge/Download_my_Resume-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=101010)](https://github.com/nmarandac/nmarandac/files/8531947/Nataly.Aranda-Resume.pdf)
 
 [![coverLetter](https://img.shields.io/badge/Download_my_Cover_Letter-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=black)](https://github.com/nmarandac/nmarandac/files/8476406/NatalyAranda_Cover.Letter.pdf)
 
@@ -33,5 +32,4 @@ I learned and perfected my data skills. Now I am prepared to start working as a 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nataly_Aranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/natalyaranda/)
 
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Nataly_Aranda-0077B5?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=101010)]
-(https://www.researchgate.net/profile/Nataly-Aranda-C) 
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Nataly_Aranda-0077B5?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=101010)](https://www.researchgate.net/profile/Nataly-Aranda-C) 
